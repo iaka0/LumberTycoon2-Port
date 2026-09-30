@@ -15,7 +15,7 @@ The map, item models and UI layouts were exported from the place and rebuilt in 
 - The full map, with trees growing in every biome
 - Chopping trees, cutting logs, dragging wood around
 - Selling wood at the dropoff
-- Wood R Us, the land store, car store, furniture store, logic store and the rest, with working NPCs you can talk to
+- Wood R Us, the land store, car store, furniture store, logic store and the rest, with working NPCs you can interact with 
 - Buying and expanding land
 - Placing structures, sawmills, conveyors, blueprints, furniture and vehicles
 - Wires and logic items (buttons, levers, gates, lasers, doors, lamps, etc.)
