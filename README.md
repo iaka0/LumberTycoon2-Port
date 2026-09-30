@@ -25,9 +25,7 @@ The map, item models and UI layouts were exported from the place and rebuilt in 
 
 ## Known issues / not done yet
 
-- Fishing, the boat and a few other items aren't in yet
-- Some sounds are missing
-- Quests and secrets aren't in yet
+- Some sounds are missing 
 - No multiplayer (single player only for now)
 - Expect bugs - if you find one, open an issue
 
